@@ -12,7 +12,6 @@ elsif phrase ==  "WHAT DID YOU EAT TODAY?"
   "NO, NOT SINCE 1938!"
 else
   "WHAT?"
-  end
  end
 end
 # Whatever you say to grandma, she should respond with
