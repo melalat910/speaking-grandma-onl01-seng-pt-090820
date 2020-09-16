@@ -4,9 +4,11 @@ if phrase != phrase.upcase
   puts "HUH?! SPEAK UP SONNY!"
 elseif phrase == "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
+else phrase ==  "WHAT DID YOU EAT TODAY?"
+  puts "NO, NOT SINCE 1938!"
 end
 end
-
+end
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
