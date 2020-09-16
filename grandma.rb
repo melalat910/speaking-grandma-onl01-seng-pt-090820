@@ -10,7 +10,7 @@ elsif phrase == "Hi!"
   "HUH?! SPEAK UP, SONNY!"
 elsif phrase ==  "WHAT DID YOU EAT TODAY?"
   "NO, NOT SINCE 1938!"
-else 
+else
   "WHAT?"
   "NO, NOT SINCE 1938!"
  end
