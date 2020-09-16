@@ -4,7 +4,7 @@ if phrase != phrase.upcase
   puts "HUH?! SPEAK UP SONNY!"
 elseif phrase == "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
-else phrase ==  "WHAT DID YOU EAT TODAY?" 
+else phrase ==  "WHAT DID YOU EAT TODAY?"
   puts "NO, NOT SINCE 1938!"
  end
 end
